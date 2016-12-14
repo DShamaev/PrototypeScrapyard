@@ -2,3 +2,8 @@ Prototype scrapyard by Dmitriy Shamaev
 
 v7:
 - initial ludum dare release
+
+v8:
+- ui fixes
+- audio fix
+- crazy idea feature fix
