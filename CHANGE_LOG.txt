@@ -1,0 +1,4 @@
+Prototype scrapyard by Dmitriy Shamaev
+
+v7:
+- initial ludum dare release
